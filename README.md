@@ -7,7 +7,6 @@
 ##Installation
 * Simply drop into silverstripe root (using whatever method)
 * `dev/build`
-* `?flush=all`
 
 ##Usage
 Automatically applies itself to SiteConfig. Simply create some sub-menu references and then display them in the template using something like:
